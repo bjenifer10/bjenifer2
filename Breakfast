@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Breakfast</title>
+</head>
+<body>
+<h1>What are we making?</h1>
+<h3>by: Briana Jenifer</h3>
+<p>I make this breakfast all the time. I love to make it especially when I want something healthy.</p>
+<h2>Ingredients</h2>
+    <ul>
+        <li>1/2 oats</li>
+        <li>1 cup water</li>
+        <li>dab of butter</li>
+        <li>dash of salt</li>
+    </ul>
+<h2>What to do?</h2>
+    <ol>
+        <li>Add the water, butter, and salt to the water, then bring the water to a boil</li>
+        <li>Once the water has come to a boil add the oats, and let the water come to boil once again. Then, reduce the heat to a simmer.</li>
+        <li>Let oats cook for about 1-2 minutes or until oats have reached the desired consistency.</li>
+    </ol>
+</body>
+</html>
