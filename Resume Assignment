@@ -1,0 +1,96 @@
+<html>
+<head>
+    <title>Resume Assignment - Briana Jenifer </title>
+    <style type="text/css">
+        h1{
+            font-family: Georgia;
+        }
+    h3{
+        color: goldenrod;
+    }
+    </style>
+</head>
+<body>
+<a href="#objective">objective</a> | <a href="#education">education</a> | <a href="#experience">experience</a> | <a href="#affiliations">leadership & affiliations</a> | <a href="#skills">skills</a>
+<h1 id="name">BRIANA JENIFER</h1>
+<p id="contact">7606 Quandary Circle Bowie, Maryland 20720 | b.jenifer10@gmail.com | 301.832.7751</p>
+<p id="objective">
+    <h3>OBJECTIVE</h3>
+    <hr/>
+    Striving to be the best I can be in all aspects.
+</p id="objective">
+<p id="education">
+<h3>EDUCATION</h3>
+    <hr/>
+    <strong>Howard University</strong>, Washington, DC <br/>
+    Bachelor of Business Administration (Computer Information Systems)<br/>
+    <strong>Expected Graduation:</strong> May 2019 <br/>
+    <em>Cumulative GPA:</em> 3.81/4.00
+</p id="education">
+<p class="honors"><strong>Honors & Awards:</strong>Beta Gamma Sigma Honors Society (Member), Howard University Executive Leadership Honors Program (Member)</p>
+<p id="experience">
+<h3>PROFESSIONAL EXPERIENCE</h3>
+    <hr/>
+    <strong>Ernst & Young</strong>, <em>Intern (Technology Advisory Program)</em> <br/>
+    June 2018 - August 2018 <br/>
+        <ul>
+             <li>Developed a playbook (guide) on the 20-million-dollar digital transformation that took place on the client site</li>
+             <li>Hosted a Lunch & Learn teaching the contents of the playbook to 25 team members including the partner on the project</li>
+             <li>Created key client deliverables that were essential to the completion of the teams work on the client site</li>
+        </ul>
+    <strong>Crystal Media Networks</strong>, <em>Social Media Intern</em> <br/>
+    May 2017 -  August 2017 <br/>
+        <ul>
+             <li>Conducted research and inputted the information collected into the backend of CMN's pre-BETA program</li>
+             <li>Tested and provided constructive feedback to further improve the product</li>
+             <li>Designed an Excel spreadsheet with PivotTables and conditional formatting that contained the collected statistics</li>
+        </ul>
+    <strong>PricewaterhouseCoopers</strong>, <em>Social Start Intern (Public Sector Contracts)</em> <br/>
+    June 2016 -  July 2016 <br/>
+        <ul>
+             <li>Redesigned the entire filing system for the Public Sector Contracts Department, which is still in use today</li>
+            <li>Served as a liaison between the company and 5 different Public Sector departments in regards to contract closeouts</li>
+            <li>Constructed 9 Nondisclosure Agreements and 5 Teaming Agreements, which resulted in an increase in department productivity</li>
+        </ul>
+    <strong>Mindless Thoughts</strong>, <em>Founder/ Writer/ Web Designer</em> <br/>
+    October 2012 - Present <br/>
+        <ul>
+            <li>Utilize HTML & CSS to design the website which generate over 2,800 subscribers and over 32,000 views</li>
+            <li>Research user activity through Google Analytics in order to find times to post that would maximize user engagement</li>
+            <li>Engage with subscribers via AskBox to increase user interaction and receive constructive feedback</li>
+        </ul>
+</p id="experience">
+<p id="affiliations">
+<h3>LEADERSHIP & AFFILIATIONS</h3>
+    <hr/>
+    <strong>International Fraternity of Delta Sigma Pi (Iota Rho Chapter)</strong>, <em>Chancellor</em> <br/>
+    April 2018 - December 2018 <br/>
+        <ul>
+             <li>Scheduled and planned bi-weekly chapter meetings and reduced overall meeting time by 25%</li>
+            <li>Engaged collegiate brothers during chapter meetings by creating new activities, presentations, and events</li>
+            <li>Wrote and enforced chapter bi-laws approved by the Central Office</li>
+        </ul>
+    <strong>International Fraternity of Delta Sigma Pi (Iota Rho Chapter)</strong>, <em>Vice President - Alumni Relations</em> <br/>
+    April 2017 - December 2017 <br/>
+        <ul>
+            <li>Designed an Alumni directory database housing over 750 member’s contact information still in use today</li>
+            <li>Devised and published an alumni newsletter that was sent to over 750 members every month</li>
+            <li>Planned local Alumni and Collegiate Iota Rho Chapter gatherings to foster a stronger brotherhood bond</li>
+        </ul>
+    <strong>International Fraternity of Delta Sigma Pi (Iota Rho Chapter)</strong>, <em>Webmaster</em> <br/>
+    December 2016 - April 2017 <br/>
+        <ul>
+            <li>Implemented a hosting website switch from WordPress to GINSystems</li>
+            <li>Tracked and measured website traffic and user activity over time to improve engagement impact</li>
+        </ul>
+<strong>Other Affiliations:</strong> Howard University Consulting Club, Society of Women Engineers, T. Howard Foundation, Howard University Computer Based Information Systems Society
+</p id="affiliations">
+<p id="skills">
+    <h3>SKILLS</h3>
+    <hr/>
+    <ul>
+        <li>R (Beginner), JAVA (Beginner), HTML & CSS(Beginner), Google Analytics, Microsoft Access, Blogging, Photography</li>
+    </ul>
+</p id=skills>
+</body>
+</html>
