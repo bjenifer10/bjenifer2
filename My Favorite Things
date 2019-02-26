@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>My Favorite Things</title>
+</head>
+<body>
+<h1>These are my favorite things </h1>
+<h3>My Movies</h3>
+    <strong>These are some of my favorites in no particular order</strong>
+        <ol>
+            <li>Her</li>
+            <li>What Happened to Monday</li>
+            <li>White Chicks</li>
+        </ol>
+<h3>My Foods</h3>
+<strong>Here are a couple of foods I love</strong>
+    <ol>
+        <li>Potatoes <em>(of all kinds: mashed, fried, baked)</em></li>
+        <li>quesidillas</li>
+        <li>Rolls</li>
+    </ol>
+<h3>My Shows</h3>
+<strong>Here are some shows I feel are worth watching again</strong>
+    <ol>
+        <li>The Office</li>
+        <li>Elite</li>
+        <li>Black Mirror</li>
+        <li>House</li>
+        <li>The Simpsons</li>
+    </ol>
+<h3>My Music</h3>
+<strong>Here are a couple of Artists I enjoy listening to</strong>
+    <ol>
+        <li>Kendrick Lamar</li>
+        <li>Daniel Ceaser</li>
+        <li>J Cole</li>
+    </ol>
+</body>
+</html>
