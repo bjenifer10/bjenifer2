@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Bootstrap Test Bourbon Chicken </title>
+    <style type="text/css">
+        body {
+            padding-top: 56px;
+            font-family:Helvetica,serif;
+        }
+        h2 {
+            color: steelblue;
+        }
+
+
+        }
+
+    </style>
+</head>
+<body>
+<!-- navbar-->
+<nav class="navbar navbar-light navbar-expand-lg fixed-top shadow-sm bg-white">
+    <button type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler"><span class="navbar-toggler-icon"></span></button>
+    <div id="navbarSupportedContent" class="collapse navbar-collapse">
+        <ul class="navbar-nav ml-auto">
+            <li class="nav-item"><a href="#ingredients" class="nav-link">Ingredients</a></li>
+            <li class="nav-item"><a href="#instructions" class="nav-link">Instructions</a></li>
+            <li class="nav-item"><a href="#notes" class="nav-link">Notes</a></li>
+        </ul>
+    </div>
+</nav>
+
+<section class="bg-ligh">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6 order-2 order-lg-1">
+                <h2>Bourbon Chicken </h2>
+                Prep Time: 5 Mins | Cook Time: 15 Min | Total Time: 20 Min <br/>
+                Serves: 4<br/>
+                <br/>
+                <em>Super Easy One Pan Bourbon Chicken. Serve with rice and noodles to make it a meal!</em>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!--ingredients-->
+<section id="ingredients" class="bg-light">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-2 order-2 order-lg-1">
+                <h2>Ingredients</h2>
+                1/2 teaspoon sesame oil <br/>
+                1 tablespoon canola oil <br/>
+                2 lbs chicken breast, cut into 1 in. cubes <br/>
+                4 cloves garlic, minced <br/>
+                1 teaspoon ginger, minced <br/>
+                1/4 cup low sodium soy sauce <br/>
+                1/4 cup light or dark brown sugar <br/>
+                2 tablespoons bourbon <br/>
+                1/4 cup rice wine vinegar <br/>
+                1 teaspoon cornstarch <br/>
+                1 tablespoon water <br/>
+                sesame seeds for garnish, if desired <br/>
+                green onions for garnish, if desired <br/>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!--instructions-->
+        <section id="instructions" class="bg-light">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-2 order-2 order-lg-1">
+                    <h2> Instructions </h2>
+                        <ol>
+                            <li>Heat sesame oil and canola oil in a large skillet</li>
+                            <li>Add in chicken and saute until fully cooked and browned</li>
+                            <li>Add in garlic and ginger and saute for 1-2 minutes. (Add in more oil if needed)</li>
+                            <li>In a medium bowl combine soy sauce, brown sugar, bourbon and rice wine vinegar</li>
+                            <li>Add sauce to the chicken and bring to a simmer. Cook for 2-3 minutes</li>
+                            <li>Meanwhile in a small bowl whisk together cornstarch and water</li>
+                            <li>Slowly add the cornstarch mixture to the sauce and stir frequently until thickened, 2-3 minutes</li>
+                            <li>If the sauce needs to thicken more add more cornstarch</li>
+                            <li>Serve immediately with sesame seeds and green onion for garnish, if desired</li>
+                        </ol>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+<!--Notes Footer -->
+<div id="notes" class="py-5 bg-light">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-4 mb-4 mb-lg-0">
+                <h3>Notes</h3>
+                <p class="text-muted">Original recipe from <a href="chefsavy.com">chefsavy.com</a>. Please do not publish my recipe or pictures without linking back to the original post. Thank you!</p>
+            </div>
+
+</body>
+</html>
