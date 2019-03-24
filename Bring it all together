@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Bring it all together</title>
+</head>
+<body>
+<h1> Briana's Mix</h1>
+<a href="#Pop">Pop</a> | <a href="#R&B/Soul">R&B/Soul</a> | <a href="#Hip-Hop/Rap">Hip-Hop/Rap</a>
+<h2 id="Pop">Pop</h2>
+<a href="#R&B/Soul">R&B/Soul</a> | <a href="#Hip-Hop/Rap">Hip-Hop/Rap</a> <br/>
+<img src="https://images.rapgenius.com/540d20cc1eb20a554fbd0d6538143f0f.300x300x1.jpg" alt="Album Art for Frank Ocean's, Channel Orange" title="Channel Orange" width = 350 height="350"/> <br/>
+<strong>Channel ORANGE (2012)</strong> <em>by Frank Ocean</em>
+<ol>
+    <li>Start</li>
+    <li>Thinkin Bout You</li>
+    <li>Fertilizer</li>
+    <li>Sierra Leone</li>
+    <li>Sweet Life</li>
+    <li>Not Just Money</li>
+    <li>Super Rich Kids (feat. Earl Sweatshirt)</li>
+    <li>Pilot Jones</li>
+    <li>Crack Rock</li>
+    <li>Pyramids</li>
+    <li>Lost</li>
+    <li>White (feat. John Mayer)</li>
+    <li>Monks</li>
+    <li>Bad Religion</li>
+    <li>Pink Matter (feat. André 3000</li>
+    <li>Forrest Gump</li>
+    <li>End</li>
+</ol>
+<h2 id="R&B/Soul">R&B/Soul</h2>
+<a href="#Pop">Pop</a> | <a href="#Hip-Hop/Rap">Hip-Hop/Rap</a> <br/>
+<img src="https://is4-ssl.mzstatic.com/image/thumb/Music118/v4/0a/4d/50/0a4d50f9-6fc4-b909-c10b-0befc01548ea/source/1200x1200bb.jpg" alt="Album Art for H.E.R.'s, H.E.R." title="H.E.R." width = 350 height="350"/> <br/>
+<strong>H.E.R. (2017)</strong> <em>by H.E.R.</em>
+<ol>
+    <li>Losing</li>
+    <li>Avenue</li>
+    <li>Let Me In</li>
+    <li>Lights On</li>
+    <li>Say It Again</li>
+    <li>Facts</li>
+    <li>Focus</li>
+    <li>U</li>
+    <li>Every Kind of Way </li>
+    <li>Best Part (feat. Daniel Caesar</li>
+    <li>Changes</li>
+    <li>Jungle</li>
+    <li>Free</li>
+    <li>Rather Be</li>
+    <li>2</li>
+    <li>Hopes Up</li>
+    <li>Still Down</li>
+    <li>Wait for It</li>
+    <li>Pigment</li>
+    <li>Gone Away</li>
+    <li>I Won't</li>
+</ol>
+<h2 id="Hip-Hop/Rap">Hip-Hop/Rap</h2>
+<a href="#Pop">Pop</a> | <a href="#R&B/Soul">Hip-Hop/Rap</a> <br/>
+<img src="https://images.complex.com/complex/image/upload/c_limit,w_680/fl_lossy,pg_1,q_auto/sxpzauvbpychut1jakw7.jpg" alt="Album Art for Kanye West's, The Life of Pablo" title="The Life of Pablo" width = 350 height="350"/> <br/>
+<strong>The Life of Pablo</strong> <em>by Kanye West</em>
+<ol>
+    <li>Ultraligh Beam</li>
+    <li>Father Stretch My Hands, Pt. 1</li>
+    <li>Pt. 2</li>
+    <li>Famous</li>
+    <li>Feedback</li>
+    <li>Low Lights</li>
+    <li>Hightlights</li>
+    <li>Freestyle 4</li>
+    <li>I love Kanye</li>
+    <li>Waves</li>
+    <li>FML</li>
+    <li>Real Friends</li>
+    <li>Wolves</li>
+    <li>Frank's Track</li>
+    <li>Siiiiiiiiiiilver Surffffeeeeeeer Intermission</li>
+    <li>30 Hours</li>
+    <li>No More Parties in LA</li>
+    <li>Facts (Charlie Heat Version)</li>
+    <li>Fade</li>
+    <li>Saint Pablo</li>
+</ol>
+</body>
+</html>
