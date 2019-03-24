@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>It looks as good assignment</title>
+</head>
+<body>
+<img src="https://foodrevolution.org/wp-content/uploads/2018/04/blog-featured-diabetes-20180406-1330.jpg" alt="coloful looking healthy food" title="Healthy food" width = 600 height="450"/>
+<br/>
+<p id="one"><img src="https://www.rd.com/wp-content/uploads/2018/04/9-Foods-You-Should-Never-Eat-Before-Bed-760x506.jpg" alt="French fries" title="French fries" width = 450 height="250" align="right"/>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean porta, leo ut rhoncus feugiat, nulla ipsum cursus lacus, sit amet efficitur est sapien ut turpis. In hac habitasse platea dictumst. Phasellus tincidunt turpis ante, quis pulvinar massa interdum id. Maecenas hendrerit justo eu fringilla eleifend. Aliquam gravida nisl facilisis vulputate mattis. Nam finibus imperdiet efficitur. Suspendisse potenti. </p>
+<br/>
+<br/>
+<br/>
+<p id="two"><img src="https://cdn-a.william-reed.com/var/wrbm_gb_food_pharma/storage/images/publications/food-beverage-nutrition/foodnavigator.com/news/policy/uk-launches-consultation-on-restricting-junk-food-promotions/9023808-3-eng-GB/UK-launches-consultation-on-restricting-junk-food-promotions_wrbm_large.jpg" alt="some candy" title="yup it's candy" width = 450 height="250" align="left"/>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque erat metus, interdum nec tellus non, molestie blandit velit. Donec ullamcorper tincidunt diam, ut ultricies ante consectetur ut. Ut sed lobortis enim, sagittis euismod metus. Donec id molestie urna. Ut sed nibh vestibulum, pharetra dui ac, varius felis. Donec sit amet urna risus. Ut ante velit, cursus eu justo et, semper imperdiet turpis. Nulla ullamcorper sem purus. Nunc eu lorem pulvinar, efficitur eros at, ultrices nibh. Aliquam quis ligula ligula. </p>
+</body>
+</html>
