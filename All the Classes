@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>All the Classes</title>
+</head>
+<body>
+<table width="600"
+    cellpadding="10"
+    cellspacing="10"
+    border="2"
+bgcolor="#d3d3d3">
+    <tr>
+        <th width="200"></th>
+        <th scope="col">Monday</th>
+        <th scope="col">Tuesday</th>
+        <th scope="col">Wednesday</th>
+        <th scope="col">Thursday</th>
+        <th scope="col">Friday</th>
+        <th scope="col">Saturday</th>
+        <th scope="col">Sunday</th>
+    </tr>
+    <tr>
+        <th scope="row">9:00AM - 10:00AM</th>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <th scope="row">10:00AM - 11:00AM</th>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <th scope="row">11:00AM - 12:00PM</th>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <th scope="row">12:00PM - 1:00PM</th>
+        <td rowspan="2" bgcolor="#4682b4">CRN: 14005 <strong><em>Information Systems Consulting </em></strong> (Dr. Buskey) - 3 cred.</td>
+        <td></td>
+        <td rowspan="2" bgcolor="#4682b4"> CRN: 14005 <strong><em>Information Systems Consulting </em></strong> (Dr. Buskey) - 3 cred.</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <th scope="row">1:00PM - 2:00PM</th>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <th scope="row">2:00PM - 3:00PM</th>
+        <td></td>
+        <td rowspan="1.5" bgcolor="#4682b4">CRN: 17237 <strong><em>Representative Thinkers</em></strong> (Prof. Verheren) - 3 cred.</td>
+        <td></td>
+        <td rowspan="1.5" bgcolor="#4682b4">CRN: 17237 <strong><em>Representative Thinkers</em></strong> (Prof. Verheren) - 3 cred.</td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <th scope="row">3:00PM - 4:00PM</th>
+        <td rowspan="2" bgcolor="#4682b4">CRN: 16537 <strong><em>Web Authoring Tools</em></strong> (Prof. Henley) - 3 cred.</td>
+        <td></td>
+        <td rowspan="2" bgcolor="#4682b4">CRN: 16537 <strong><em>Web Authoring Tools</em></strong> (Prof. Henley) - 3 cred.</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <th scope="row">5:00PM - 6:00PM</th>
+        <td rowspan="2" bgcolor="#4682b4">CRN: 13369 <strong><em>Honors Seminar</em></strong> (Dr. Magee, Ms. Mason) - 1 cred.</td>
+        <td></td>
+        <td rowspan="2" bgcolor="#4682b4">CRN: 13369 <strong><em>Honors Seminar</em></strong> (Dr. Magee, Ms. Mason) - 1 cred.</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <th scope="row">6:00PM - 7:00PM</th>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <th scope="row">7:00PM - 8:00PM</th>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <th scope="row">8:00PM - 9:00PM</th>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+</table>
+
+<p>* not pictured Business Policy (online)</p>
+</body>
+</html>
