@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>You know you want to hire me</title>
+</head>
+<body>
+<h1> So you wanna be hired?</h1>
+<fieldset>
+    <legend>Login Information:</legend>
+    <label>Username: <br/>
+        <input type="text" name="username" size="15" maxlength="30" required="required" />
+    </label>
+    <br/>
+    <label>Password: <br/>
+        <input type="password" name="password" size="15" maxlength="30" required="required"/></label>
+    <br/>
+    <input type="submit" value="Submit" />
+</fieldset>
+<br/>
+<p><em>Please fill out the form below.</em></p>
+<p>Company Name:
+    <input type="text" name="companyname" size="18" maxlength="30" />
+     Position:
+    <select name="positions">
+        <option value="blank" selected="selected"></option>
+        <option value="intern">Intern</option>
+        <option value="Manager">Manager</option>
+        <option value="Associate">Computer</option>
+        <option value="director">Director</option>
+    </select>
+    <br/>
+    <br/>
+    Location: <input type="text" name="location" size="18" maxlength="30" />
+</p>
+<br/>
+<p><em>Select your preferred amount of vacation days</em><br/>
+    <input
+            type="radio"
+            name="vacation"
+            value="none"/> I'm tryna work forever
+    <input
+            type="radio"
+            name="vacation"
+            value="10days"  /> 10 days
+    <input
+            type="radio"
+            name="vacation"
+            value="1month" /> 31 days
+    <input
+            type="radio"
+            name="vacation"
+            value="unlimited" /> Unlimited days
+</p>
+<br/>
+<p><em>Please select your preferred pay range:</em><br/>
+    <input type="checkbox" name="pay"
+           value="50"/> $50,000 - $99,000
+<br/> <input type="checkbox" name="pay"
+           value="100"/> $100,000 - $150,000
+    <br/> <input type="checkbox" name="pay"
+                 value="151"/> $151,000 - $500,000
+  <br/>  <input type="checkbox" name="pay"
+           value="1mil"/> 1 million - 1 billion
+</p>
+<p><strong>Upload your resume in PDF format:</strong></p>
+<input type="file" name="resume" />
+<input type="submit" value="upload" />
+</form>
+<br/>
+<br/>
+<input type="submit" value="Submit"/>
+</body>
+</html>
